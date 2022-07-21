@@ -1,3 +1,6 @@
+### Rejected entry for Darkathon 2K22
+### Now moving to [Scrapy](https://github.com/ygohel18/scrapy)
+
 ## First to do
 
 Change your TOR browser path in drugsy.py file
