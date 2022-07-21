@@ -4,9 +4,9 @@ Change your TOR browser path in drugsy.py file
 
 make python enev
 
-`python -m enev ./enev`
+`python -m venv ./venv`
 
-Activate enev
+Activate venv
 
 `./enev/Scripts/activate`
 
