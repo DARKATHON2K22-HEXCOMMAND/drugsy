@@ -4,7 +4,10 @@
 ## First to do
 
 Change your TOR browser path in drugsy.py file
+
 Add drugs to drugs.txt file use new line for new name
+
+
 make python enev
 
 `python -m venv ./venv`
